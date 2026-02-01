@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%8C;Crafting+Intelligent+Learning+Worlds" alt="Typing SVG" />
 </div>
 
----
-
 ## 👩‍💻 About Me
 
 🎓 **Software Engineering @ Zhejiang Normal University**  
@@ -12,8 +10,6 @@
 
 > I enjoy building **practical, complete systems** — from database design  
 > to backend architecture, from front-end interaction to intelligent features.
-
----
 
 ## 🧠 Tech Stack
 
@@ -38,24 +34,8 @@
 - LLM API integration (DeepSeek)
 - Intelligent feedback & emotional state modeling
 
----
-
-## 🏆 Honors & Achievements
-
-- 🥇 Provincial Government Scholarship ×2  
-- 🥇 University First-Class Scholarship ×2  
-- 🏅 RUIKANG Robot Developer Competition — Provincial Third Prize  
-- 📜 Software Copyright ×2  
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: **Jasmine_sun2005@163.com**
 - 💼 Position: **Software Development Intern**
 
----
-
-<p align="center">
-  <i>“Build systems that actually help people.”</i>
-</p>
