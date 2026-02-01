@@ -6,7 +6,7 @@
 
 🎓 **Software Engineering @ Zhejiang Normal University**  
 💡 Focused on **Vue3 frontend**, **Java backend**, **full-stack systems**, and **AI-driven applications**
-⚡  I love turning complex problems into elegant, intelligent, user-centered solutions
+⚡ I love turning complex problems into elegant, intelligent, user-centered solutions
 
 > I enjoy building **practical, complete systems** — from database design  
 > to backend architecture, from front-end interaction to intelligent features.
