@@ -1,31 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There%2C+I'm+Jasmine+%F0%9F%8C%8C;Full-Stack+%7C+AI+System+Builder;Java+%26+Vue+Enthusiast;Crafting+Intelligent+Learning+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%8C;Crafting+Intelligent+Learning+Worlds" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jasmine&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software+Engineering+%7C+AI+%2B+Education+Innovator&descAlign=62&descAlignY=55&descSize=18" alt="header" />
 </p>
 
 ---
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=42&pause=1400&color=00F0FF&center=true&vCenter=true&width=840&height=180&lines=Hey...+I'm+Jasmine+%F0%9F%8C%8C;Full-Stack+%7C+AI+System+Builder;Crafting+intelligent+learning+worlds...;one+line+at+a+time.;&repeat=false&random=false&cursor=█&cursorDisplay=block&fade=true&fadeOut=true" alt="Elegant Cyber Typing Intro" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cloud12305&label=Visitors&color=00F0FF&style=flat-square&logo=starship&labelColor=0d1117" alt="profile views" />
-  <!-- Visitors 14 → will auto-update -->
-</div>
-
-<br>
-
-<!-- Ultra-thin neon gradient divider for subtle separation & premium feel -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(to+right,#00F0FF,#ff00cc,#00F0FF)&height=2&section=header&align=center" alt="neon divider" />
-</div>
-
-<br>
 
 ## 👩‍💻 About Me
 
