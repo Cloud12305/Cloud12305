@@ -7,6 +7,22 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=140&lines=Hey...+I'm+Jasmine+%F0%9F%8C%8C;Full-Stack+Developer;AI+%26+Education+System+Builder;Crafting+intelligent+worlds+one+line+at+a+time...&repeat=false&random=false&cursor=█&cursorDisplay=block" alt="Neon Typing Intro" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cloud12305&label=Visitors&color=00F0FF&style=flat-square&logo=starship&labelColor=0d1117" alt="profile views" />
+</div>
+
+<br>
+
+<!-- 轻薄分隔线，可选 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=linear-gradient(to+right,#00F0FF,#ff00cc)&height=6&section=header&align=center" alt="neon divider" />
+</div>
 
 ## 👩‍💻 About Me
 
