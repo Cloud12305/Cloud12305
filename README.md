@@ -8,7 +8,7 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=140&lines=Hey...+I'm+Jasmine+%F0%9F%8C%8C;Full-Stack+Developer;AI+%26+Education+System+Builder;Crafting+intelligent+worlds+one+line+at+a+time...&repeat=false&random=false&cursor=█&cursorDisplay=block" alt="Neon Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&pause=1300&color=00F0FF&center=true&vCenter=true&width=820&height=160&lines=Hey...+I'm+Jasmine+%F0%9F%8C%8C;Full-Stack+%7C+AI+System+Builder;Crafting+intelligent+learning+worlds...;one+line+at+a+time.;&repeat=false&random=false&cursor=█&cursorDisplay=block&fade=true&fadeOut=true" alt="Elegant Neon Intro" />
 </div>
 
 <br>
@@ -19,10 +19,11 @@
 
 <br>
 
-<!-- 轻薄分隔线，可选 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=linear-gradient(to+right,#00F0FF,#ff00cc)&height=6&section=header&align=center" alt="neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(to+right,#00F0FF,#ff00cc,#00F0FF)&height=3&section=header&align=center" alt="neon thin divider" />
 </div>
+
+<br>
 
 ## 👩‍💻 About Me
 
