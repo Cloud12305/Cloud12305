@@ -14,10 +14,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Sun+Mengyun&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software+Engineering+%7C+AI+%2B+Education+Innovator&descAlign=62&descAlignY=55&descSize=18" alt="header" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cloud12305&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&titleColor=00f0ff&textColor=ffffff&iconColor=00d4ff&bgColor=0d1117" alt="trophies" />
-</div>
-
 ---
 
 ## 👩‍💻 About Me
@@ -82,15 +78,6 @@
 - Built backend-driven **PDF contract generation engine**
 
 📄 *Significantly improved rental process efficiency*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
