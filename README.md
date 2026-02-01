@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There%2C+I'm+Sun+Mengyun+%F0%9F%8C%8C;Full-Stack+%7C+AI+System+Builder;Java+%26+Vue+Enthusiast;Crafting+Intelligent+Learning+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There%2C+I'm+Jasmine+%F0%9F%8C%8C;Full-Stack+%7C+AI+System+Builder;Java+%26+Vue+Enthusiast;Crafting+Intelligent+Learning+Worlds" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Sun+Mengyun&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software+Engineering+%7C+AI+%2B+Education+Innovator&descAlign=62&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jasmine&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software+Engineering+%7C+AI+%2B+Education+Innovator&descAlign=62&descAlignY=55&descSize=18" alt="header" />
 </p>
 
 ---
