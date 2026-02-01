@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&height=100&lines=Hey%2C+I'm+Jasmine+%F0%9F%8C%8C;Crafting+Intelligent+Learning+Worlds" alt="Typing SVG" />
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jasmine&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software+Engineering+%7C+AI+%2B+Education+Innovator&descAlign=62&descAlignY=55&descSize=18" alt="header" />
-</p>
+
 ---
 
 ## 👩‍💻 About Me
