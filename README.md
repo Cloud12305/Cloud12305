@@ -20,103 +20,98 @@
 
 ---
 
-### 🌌 About Me
+## 👩‍💻 About Me
 
-```text
-🎓  Software Engineering @ Zhejiang Normal University
-🏆  Provincial Government Scholarship ×2   |   University Merit Scholarship ×2
-📊  GPA Rank: 2 / 79   |   CET-6
-💻  Passionate about building production-grade, AI-enhanced systems
-⚡  I turn ideas into complete, intelligent, user-loving applications
-“Build systems that actually help people — beautifully and intelligently.”
+🎓 **Software Engineering @ Zhejiang Normal University**  
+🏆 **Provincial Government Scholarship ×2 | University Merit Scholarship ×2**  
+📊 **GPA Rank: 2 / 79 | CET-6**  
+💡 Focused on **Java backend**, **full-stack systems**, and **AI-driven applications**
 
-🔥 Tech Nebula
+> I enjoy building **practical, complete systems** — from database design  
+> to backend architecture, from front-end interaction to intelligent features.
 
-  skills
+---
 
+## 🧠 Tech Stack
 
-Backend Universe
-Java · Spring Boot · MyBatis-Plus · Shiro · RESTful APIs · JWT · Permission Systems
-Frontend Galaxy
-Vue3 · Composition API · Ant Design Vue · Pinia · Axios · Responsive Magic
-Data & Intelligence Core
-MySQL (Optimized Schema) · Redis (State Machines · Caching)
-RAG · DeepSeek LLM · Vector DB · Emotional Intelligence Modeling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,vue,spring,mysql,redis,git&theme=light" />
+</p>
 
+**Backend**
+- Java / Spring Boot / MyBatis-Plus / Shiro
+- RESTful API design & permission control
 
-🌠 Cosmic Projects
+**Frontend**
+- Vue3 / Ant Design / Layui
+- Axios encapsulation & responsive UI
 
-  
-        
-          project title
-        
-        
+**Database & Middleware**
+- MySQL (schema design & optimization)
+- Redis (state machine / cache)
 
+**AI & System Design**
+- RAG-based local knowledge base
+- LLM API integration (DeepSeek)
+- Intelligent feedback & emotional state modeling
 
-        Project Leader & Full-Stack Architect
+---
 
-        Vue3 · Spring Boot · Redis State Machine
+## 🚀 Featured Projects
 
-        RAG Local KB · DeepSeek Integration
+### 🧩 AI+ Intelligent Learning Companion System  
+**Role:** Project Leader | Full-Stack Developer  
+**Tech:** Vue3 · Spring Boot · Redis · MySQL · RAG · DeepSeek  
 
-        Emotional Feedback Loop · Dynamic Incentives
-        
+- Designed a **front–back separated intelligent education platform**
+- Built RAG-based local knowledge base for **accurate AI Q&A**
+- Designed **emotional state machine** with Redis  
+- Dynamically drove front-end incentive components based on AI feedback
 
+✨ *Solved delayed learning feedback & improved user engagement*
 
-        Turning delayed feedback into real-time emotional engagement ✨
-      
-        
-          project title
-        
-        
+---
 
+### 🏠 House Rental Management Platform  
+**Role:** Independent Developer  
+**Tech:** Spring Boot · MyBatis-Plus · Shiro · JSP/Layui · MySQL · Baidu Map API  
 
-        Solo Full-Stack Creator
+- Implemented **multi-role access control** (Admin / Landlord / Tenant)
+- Designed complex **multi-condition housing search**
+- Integrated **Baidu Map WebGL API** for precise location marking
+- Built backend-driven **PDF contract generation engine**
 
-        Spring Boot · Shiro Multi-Role Auth
+📄 *Significantly improved rental process efficiency*
 
-        Advanced Search Engine · Baidu Map WebGL
+---
 
-        PDF Contract Engine · Clean UI/UX
-        
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" />
+</p>
 
-        Efficient, paperless rental experience from search to signature 📄
-      
+---
 
+## 🏆 Honors & Achievements
 
-🌟 Orbit Stats
+- 🥇 Provincial Government Scholarship ×2  
+- 🥇 University First-Class Scholarship ×2  
+- 🏅 Internet+ Innovation Competition — Gold Award  
+- 🏅 RUIKANG Robot Developer Competition — Provincial Third Prize  
+- 📜 Software Copyright ×2  
 
-  stats
-  top langs
+---
 
+## 📫 Contact Me
 
-  streak
+- 📧 Email: **Jasmine_sun2005@163.com**
+- 💼 Position: **Software Development Intern**
+- 🌱 Currently learning: **Distributed systems & AI system integration**
 
+---
 
-🏆 Stellar Achievements
-
-  https://img.shields.io/badge/Provincial_Government_Scholarship-%E2%9C%A8-blueviolet?style=for-the-badge&logoColor=white
-  https://img.shields.io/badge/University_First%20Class_Scholarship-%E2%9C%A8-9f7aea?style=for-the-badge&logoColor=white
-  
-
-  https://img.shields.io/badge/Internet%2B_Innovation_Competition-Gold_Award-ff69b4?style=for-the-badge&logoColor=white
-  https://img.shields.io/badge/RUIKANG_Robot_Competition-Provincial_Third_Prize-00f0ff?style=for-the-badge&logoColor=white
-  
-
-  https://img.shields.io/badge/Software_Copyright-%C3%972-7fff00?style=for-the-badge&logoColor=white
-
-
-📡 Transmission Hub
-
-📧 Jasmine_sun2005@163.com
-💼 Open to Software Development Internships (Backend / Full-Stack / AI)
-🌱 Currently exploring: Distributed Systems · Advanced RAG · Multi-Agent AI
-
-
-
-
-  closing
-
-
-  footer wave
+<p align="center">
+  <i>“Build systems that actually help people.”</i>
+</p>
